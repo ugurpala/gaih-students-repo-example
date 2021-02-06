@@ -38,7 +38,7 @@ Extra:
 
 Try building the same user application but this time, use a dictionary!
 """
-"""
+
 database={'Ugur': 'paSSword1234', 'Meltem': 'paSSword5678'}
 
 print("____Welcome to the system____")
@@ -63,4 +63,3 @@ elif door == 'y':
 else:
     print("Invalid answer!")
     
-"""
